@@ -34,6 +34,8 @@ LLM chatbots lack deterministic reasoning and safety guarantees.
 Migro.agent bridges this gap by providing an autonomous system that observes, reasons, decides, and acts—with full explainability, explicit guardrails, and human-in-the-loop control.
 
 Agent Loop Architecture
+<img width="1673" height="933" alt="image" src="https://github.com/user-attachments/assets/ed0cb13b-6f7b-473b-9bb7-419c1a8f238f" />
+
 
 Migro.agent executes a deterministic, explicit agent loop implemented entirely in Python:
 
@@ -185,3 +187,6 @@ External tools (n8n, dashboards, Sheets) are strictly non-controlling.
 
 Human-Centered Automation
 Migro.agent augments human teams—it does not replace them.
+Example Report
+<img width="1153" height="889" alt="image" src="https://github.com/user-attachments/assets/b7e19806-016f-4cf9-8510-df76c018ac49" />
+
